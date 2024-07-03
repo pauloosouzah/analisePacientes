@@ -13,12 +13,14 @@ Você pode instalar as dependências usando pip:
 
 ```bash
 pip install pandas scikit-learn
-
+```
+```arvore
 analisePacientes/
 │
 ├── dados.csv       # Arquivo CSV com os dados das consultas médicas
 ├── processing.py      # Script Python para análise dos dados de saúde
 └── README.md             # Este arquivo, documentando o projeto
+```
 
 ## Funcionalidades
 
